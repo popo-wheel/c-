@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Новая папка (3)\chisla\bin\Debug\net6.0\chisla.exe
+C:\Users\PC\Desktop\Новая папка (3)\chisla\bin\Debug\net6.0\chisla.deps.json
+C:\Users\PC\Desktop\Новая папка (3)\chisla\bin\Debug\net6.0\chisla.runtimeconfig.json
+C:\Users\PC\Desktop\Новая папка (3)\chisla\bin\Debug\net6.0\chisla.dll
+C:\Users\PC\Desktop\Новая папка (3)\chisla\bin\Debug\net6.0\chisla.pdb
+C:\Users\PC\Desktop\Новая папка (3)\chisla\obj\Debug\net6.0\chisla.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Новая папка (3)\chisla\obj\Debug\net6.0\chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Новая папка (3)\chisla\obj\Debug\net6.0\chisla.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Новая папка (3)\chisla\obj\Debug\net6.0\chisla.AssemblyInfo.cs
+C:\Users\PC\Desktop\Новая папка (3)\chisla\obj\Debug\net6.0\chisla.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Новая папка (3)\chisla\obj\Debug\net6.0\chisla.dll
+C:\Users\PC\Desktop\Новая папка (3)\chisla\obj\Debug\net6.0\refint\chisla.dll
+C:\Users\PC\Desktop\Новая папка (3)\chisla\obj\Debug\net6.0\chisla.pdb
+C:\Users\PC\Desktop\Новая папка (3)\chisla\obj\Debug\net6.0\chisla.genruntimeconfig.cache
+C:\Users\PC\Desktop\Новая папка (3)\chisla\obj\Debug\net6.0\ref\chisla.dll
