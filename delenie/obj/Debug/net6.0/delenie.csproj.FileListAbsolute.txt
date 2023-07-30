@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Новая папка (3)\delenie\bin\Debug\net6.0\delenie.exe
+C:\Users\PC\Desktop\Новая папка (3)\delenie\bin\Debug\net6.0\delenie.deps.json
+C:\Users\PC\Desktop\Новая папка (3)\delenie\bin\Debug\net6.0\delenie.runtimeconfig.json
+C:\Users\PC\Desktop\Новая папка (3)\delenie\bin\Debug\net6.0\delenie.dll
+C:\Users\PC\Desktop\Новая папка (3)\delenie\bin\Debug\net6.0\delenie.pdb
+C:\Users\PC\Desktop\Новая папка (3)\delenie\obj\Debug\net6.0\delenie.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Новая папка (3)\delenie\obj\Debug\net6.0\delenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Новая папка (3)\delenie\obj\Debug\net6.0\delenie.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Новая папка (3)\delenie\obj\Debug\net6.0\delenie.AssemblyInfo.cs
+C:\Users\PC\Desktop\Новая папка (3)\delenie\obj\Debug\net6.0\delenie.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Новая папка (3)\delenie\obj\Debug\net6.0\delenie.dll
+C:\Users\PC\Desktop\Новая папка (3)\delenie\obj\Debug\net6.0\refint\delenie.dll
+C:\Users\PC\Desktop\Новая папка (3)\delenie\obj\Debug\net6.0\delenie.pdb
+C:\Users\PC\Desktop\Новая папка (3)\delenie\obj\Debug\net6.0\delenie.genruntimeconfig.cache
+C:\Users\PC\Desktop\Новая папка (3)\delenie\obj\Debug\net6.0\ref\delenie.dll
