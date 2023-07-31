@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\obj\Debug\net6.0\Hello Timur.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\obj\Debug\net6.0\Hello Timur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\obj\Debug\net6.0\Hello Timur.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\obj\Debug\net6.0\Hello Timur.AssemblyInfo.cs
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\obj\Debug\net6.0\Hello Timur.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\bin\Debug\net6.0\Hello Timur.exe
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\bin\Debug\net6.0\Hello Timur.deps.json
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\bin\Debug\net6.0\Hello Timur.runtimeconfig.json
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\bin\Debug\net6.0\Hello Timur.dll
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\bin\Debug\net6.0\Hello Timur.pdb
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\obj\Debug\net6.0\Hello Timur.dll
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\obj\Debug\net6.0\refint\Hello Timur.dll
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\obj\Debug\net6.0\Hello Timur.pdb
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\obj\Debug\net6.0\Hello Timur.genruntimeconfig.cache
+C:\Users\PC\Desktop\Новая папка (3)\Hello Timur\obj\Debug\net6.0\ref\Hello Timur.dll
