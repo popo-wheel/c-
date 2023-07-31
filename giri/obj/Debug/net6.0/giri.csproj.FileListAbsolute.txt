@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Новая папка (3)\giri\bin\Debug\net6.0\giri.exe
+C:\Users\PC\Desktop\Новая папка (3)\giri\bin\Debug\net6.0\giri.deps.json
+C:\Users\PC\Desktop\Новая папка (3)\giri\bin\Debug\net6.0\giri.runtimeconfig.json
+C:\Users\PC\Desktop\Новая папка (3)\giri\bin\Debug\net6.0\giri.dll
+C:\Users\PC\Desktop\Новая папка (3)\giri\bin\Debug\net6.0\giri.pdb
+C:\Users\PC\Desktop\Новая папка (3)\giri\obj\Debug\net6.0\giri.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Новая папка (3)\giri\obj\Debug\net6.0\giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Новая папка (3)\giri\obj\Debug\net6.0\giri.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Новая папка (3)\giri\obj\Debug\net6.0\giri.AssemblyInfo.cs
+C:\Users\PC\Desktop\Новая папка (3)\giri\obj\Debug\net6.0\giri.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Новая папка (3)\giri\obj\Debug\net6.0\giri.dll
+C:\Users\PC\Desktop\Новая папка (3)\giri\obj\Debug\net6.0\refint\giri.dll
+C:\Users\PC\Desktop\Новая папка (3)\giri\obj\Debug\net6.0\giri.pdb
+C:\Users\PC\Desktop\Новая папка (3)\giri\obj\Debug\net6.0\giri.genruntimeconfig.cache
+C:\Users\PC\Desktop\Новая папка (3)\giri\obj\Debug\net6.0\ref\giri.dll
